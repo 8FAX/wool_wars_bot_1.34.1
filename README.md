@@ -71,10 +71,5 @@ development has stopped a long time ago, do NOT dm and ask for help.
 - [@8FAX](https://www.github.com/8FAX)
 
 
-
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
-
 ![Logo](https://cdn.discordapp.com/attachments/696453099308711937/720495866921615440/8fa.png?ex=65b1e490&is=659f6f90&hm=2844c825414373f78c293bb5e5c9ddf02fb0a6aac1910bb0a68172b7cf711db8&)
 
